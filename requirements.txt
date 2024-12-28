@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+nltk
+scikit-learn
+joblib
+plotly
+streamlit-option-menu
